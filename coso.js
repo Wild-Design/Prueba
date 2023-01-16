@@ -1,3 +1,3 @@
-const coso = ()=>{
-    
+function Renzoo(){
+    console.log ("pepe")
 }
